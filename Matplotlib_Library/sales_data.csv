@@ -1,0 +1,21 @@
+Order_ID,Order_Date,Customer,Product,Category,Region,Quantity,Unit_Price,Salesperson,Total_Sales
+1001,2026-01-05,Amit,Laptop,Electronics,South,2,55000,Ramesh,110000
+1002,2026-01-08,Priya,Mobile Phone,Electronics,West,1,30000,Sanjay,30000
+1003,2026-01-12,Rahul,Headphones,Accessories,South,3,2500,Priya,7500
+1004,2026-01-18,Sneha,Keyboard,Accessories,North,2,1800,Karthik,3600
+1005,2026-01-25,Vikram,Monitor,Electronics,East,1,22000,Anita,22000
+1006,2026-02-03,Anjali,Laptop,Electronics,South,1,60000,Ramesh,60000
+1007,2026-02-10,Kiran,Tablet,Electronics,West,2,28000,Sanjay,56000
+1008,2026-02-14,Neha,Mobile Phone,Electronics,South,1,32000,Priya,32000
+1009,2026-02-21,Arjun,Mouse,Accessories,North,4,900,Karthik,3600
+1010,2026-02-28,Pooja,Printer,Electronics,East,2,15000,Anita,30000
+1011,2026-03-04,Ravi,Monitor,Electronics,South,1,22000,Ramesh,22000
+1012,2026-03-11,Divya,Laptop,Electronics,West,2,55000,Sanjay,110000
+1013,2026-03-17,Suresh,Headphones,Accessories,North,3,2500,Priya,7500
+1014,2026-03-23,Meena,Tablet,Electronics,South,1,28000,Karthik,28000
+1015,2026-03-29,Rohan,Keyboard,Accessories,East,2,1800,Anita,3600
+1016,2026-04-05,Kavya,Mobile Phone,Electronics,West,1,32000,Ramesh,32000
+1017,2026-04-12,Manoj,Printer,Electronics,South,2,15000,Sanjay,30000
+1018,2026-04-18,Isha,Laptop,Electronics,North,1,60000,Priya,60000
+1019,2026-04-24,Nikhil,Mouse,Accessories,East,5,900,Karthik,4500
+1020,2026-04-30,Swathi,Monitor,Electronics,South,2,22000,Anita,44000
