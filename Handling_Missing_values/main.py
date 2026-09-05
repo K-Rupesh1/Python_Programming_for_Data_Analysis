@@ -2,7 +2,7 @@ import seaborn as sns
 import pandas as pd
 import matplotlib.pyplot as plt
 df=sns.load_dataset('titanic')
-'''print(df)
+print(df)
 
 #Print five values
 print(df.head(5))
@@ -38,4 +38,4 @@ df['mode']=df['embarked'].fillna(df['embarked'].mode()[0])
 print(df[['mode','embarked']])
 
 sns.pairplot(df)
-plt.show()'''
+plt.show()
