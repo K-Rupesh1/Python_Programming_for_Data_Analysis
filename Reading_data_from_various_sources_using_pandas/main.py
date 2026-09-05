@@ -5,8 +5,8 @@ df=pd.read_json(StringIO(data))
 print(df)
 print()
 #convert dataframe into json
-#df=df.to_json(orient='index')
-#print(df)
+df=df.to_json(orient='index')
+print(df)
 df=df.to_json(orient='records')
 print(df)
 
